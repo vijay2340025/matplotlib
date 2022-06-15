@@ -1,2 +1,2 @@
 # matplotlib
-Data Visualizaion Tutorial
+Data Visualization Tutorial
